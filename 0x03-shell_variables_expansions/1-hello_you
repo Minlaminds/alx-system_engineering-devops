@@ -1,5 +1,0 @@
-#!/bin/bash
-echo "Hello $user" >> 1-hello_you
-echo echo Hello  >> 1-hello_you
-echo echo Hello 
-echo "Hello $user"
